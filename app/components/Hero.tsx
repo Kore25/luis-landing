@@ -4,7 +4,7 @@ export const Hero = () => {
       <h1 className="text-4xl md:text-6xl font-bold mb-4">
         Luis Carlos de la Torre Flores
       </h1>
-      <h2 className="text-4xl md:text-6xl font-bold mb-4">FullStack Developer</h2>
+      <h2 className="text-lg md:text-4xl font-bold mb-4">FullStack Developer</h2>
       <p className="text-lg text-gray-600 max-w-2xl mx-auto mb-6">
         Te ayudo a crear dashboards, sistemas y páginas que convierten visitas en clientes.
       </p>
